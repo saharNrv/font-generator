@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'mrdafoe';
+    src: url('/fonts/MrDafoe-Regular.ttf')  format('trueType');
+};
+
+@font-face {
+    font-family: 'mrsaint';
+    src: url('/fonts/MrsSaintDelafield-Regular.ttf') format('trueType');
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('/fonts/Poppins-Regular.ttf') format('trueType');
+}
+@font-face {
+    font-family: 'sharetech';
+    src: url('/fonts/ShareTechMono-Regular.ttf') format('trueType');
+}
+@font-face {
+    font-family: 'wallpoet';
+    src: url('/fonts/Wallpoet-Regular.ttf') format('trueType');
+}
